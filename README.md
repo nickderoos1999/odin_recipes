@@ -1,1 +1,1 @@
-# odin_recipes
+This is a project for myself to demonstrate my basic knowledge of html. This will include texts, lists, links and maybe images.
